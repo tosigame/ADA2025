@@ -9,7 +9,7 @@ We don't care which platform you use to produce the Jupyter Notebook files that 
 
 ## Part 1: Setting up your environment (IF you want a local/offline installation)
 
-* Install Anaconda, Python 3.11 version: [Anaconda](https://www.anaconda.com/download).
+* Install Anaconda, Python 3.13 version: [Anaconda](https://www.anaconda.com/download). If you run into issues later with this version, consider downloading an earlier version such as 3.11 from [here](https://anaconda.org/anaconda/python/files?page=0&version=3.11.13).
 
 *For Windows*: In the download options, choose "Add Anaconda3 to my PATH environment variable"
 
@@ -62,7 +62,7 @@ To execute Anaconda commands, use the Anaconda prompt: home key - type "anaconda
 Also note that while it is possible to use Git commands on Anaconda prompt, we advise against it.
 
 ```
-conda create -y -n ada python=3.11 scipy pandas numpy matplotlib=3.7.2
+conda create -y -n ada python=3.13 scipy pandas numpy matplotlib=3.7.2
 ```
 
 * Activate it:
