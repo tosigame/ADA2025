@@ -16,7 +16,7 @@ We don't care which platform you use to produce the Jupyter Notebook files that 
 *For Linux (x86)*: Open a terminal, go to the Downloads folder and execute:
 
 ```
-bash ./Anaconda3-2024.06-1-Linux-x86_64.sh -b -p $HOME/Anaconda3
+bash ./Anaconda3-2025.06-0-Linux-x86_64.sh -b -p $HOME/Anaconda3
 ```
 
 Check that `conda` is in your path. If `which conda` returns something like `/home/YOURUSERNAME/Anaconda3/bin/conda`, you are good to go. Otherwise execute
@@ -62,7 +62,7 @@ To execute Anaconda commands, use the Anaconda prompt: home key - type "anaconda
 Also note that while it is possible to use Git commands on Anaconda prompt, we advise against it.
 
 ```
-conda create -y -n ada python=3.13 scipy pandas numpy matplotlib=3.7.2
+conda create -y -n ada python=3.13 scipy pandas numpy matplotlib
 ```
 
 * Activate it:
