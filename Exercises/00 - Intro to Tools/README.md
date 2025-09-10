@@ -43,8 +43,8 @@ Install it following this download link: [Git](https://git-scm.com/download/win)
 * Clone the tutorials repo into a local folder:
 
 ```
-git clone https://github.com/epfl-ada/2024 ADA2024
-cd ADA2024
+git clone https://github.com/epfl-ada/2025 ADA2025
+cd ADA2025
 ```
 <!-- 
 * or pull new changes if you already have it (from the local folder):
@@ -125,7 +125,7 @@ Please read [this tutorial](good_coding_practices.ipynb).
 
 ## Part 4: Homework 0
 
-Access Homework 0 (OPTIONAL and UNGRADED) [here](https://github.com/epfl-ada/2024/tree/main/Homework/00%20-%20Optional%20Homework). Clone the repo locally and take the opportunity to freshen up your Python skills, or to acquire them.
+Access Homework 0 (OPTIONAL and UNGRADED) [here](https://github.com/epfl-ada/5/tree/main/Homework/00%20-%20Optional%20Homework). Clone the repo locally and take the opportunity to freshen up your Python skills, or to acquire them.
 
 ## Common issues
 
